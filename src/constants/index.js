@@ -23,8 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  windowsapllication,
 } from "../assets";
-import windowsapllication from "../assets/windowsapllication.jpg";
 
 export const navLinks = [
   {
