@@ -26,9 +26,12 @@ import verozone from "./company/verozone.png";
 import dirasa from "./company/dirasa.png";
 import fullstack from "./company/fullstack.svg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import onlineshop from "./projects/project1.jpeg";
+import kime from "./projects/project2.jpeg";
+import schoolsystem from "./projects/project3.jpeg";
+import pizzajoy from "./projects/project4.jpeg";
+import ecommerce from "./projects/project5.jpeg";
+import gymgenius from "./projects/project6.jpeg";
 
 export {
   logo,
@@ -55,8 +58,11 @@ export {
   verozone,
   dirasa,
   fullstack,
-  carrent,
-  jobit,
   windowsapllication,
-  tripguide,
+  gymgenius,
+  ecommerce,
+  pizzajoy,
+  schoolsystem,
+  kime,
+  onlineshop,
 };
