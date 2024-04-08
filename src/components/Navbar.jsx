@@ -43,8 +43,8 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-14 h-14 object-contain" />
-          <p className="text-white text-xl font-bold cursor-pointer flex ">
-            Mohammad &nbsp;
+          <p className="text-white lg:text-4xl text-xl font-bold cursor-pointer flex -ml-1">
+            ohammad &nbsp;
             <span className="text-[#915EFF]">Saiid</span>
           </p>
         </Link>
