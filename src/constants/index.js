@@ -189,7 +189,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Job IT",
+    name: "Ecommerce",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -198,11 +198,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Nodejs",
         color: "pink-text-gradient",
       },
     ],
@@ -228,7 +228,7 @@ const projects = [
     source_code_link: "https://github.com/MhamadSaid/Gym-Website",
   },
   {
-    name: "Job IT",
+    name: "Pizza Joy",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -236,10 +236,7 @@ const projects = [
         name: "react",
         color: "blue-text-gradient",
       },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
+
       {
         name: "scss",
         color: "pink-text-gradient",
@@ -249,59 +246,55 @@ const projects = [
     source_code_link: "https://github.com/MhamadSaid/Restaurant-menu",
   },
   {
-    name: "GYMGENESIS",
+    name: "kime",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "Html",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "css",
         color: "green-text-gradient",
+      },
+      {
+        name: "js",
+        color: "pink-text-gradient",
       },
     ],
     image: kime,
     source_code_link: "https://github.com/MhamadSaid/Kime",
   },
   {
-    name: "Trip Guide",
+    name: "Online Shop",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Tailwind",
         color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
       },
     ],
     image: onlineshop,
     source_code_link: "https://github.com/MhamadSaid/Online-Shop",
   },
   {
-    name: "Trip Guide",
+    name: "School Management System",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive travel booking platform that allows users to book flights",
     tags: [
       {
-        name: "nextjs",
+        name: "C#",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: ".net",
         color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
       },
     ],
     image: schoolsystem,
