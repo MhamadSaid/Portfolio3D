@@ -21,10 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import brightchamps from "./company/brightchamps.png";
+import verozone from "./company/verozone.png";
+import dirasa from "./company/dirasa.png";
+import fullstack from "./company/fullstack.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -51,11 +51,10 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  brightchamps,
+  verozone,
+  dirasa,
+  fullstack,
   carrent,
   jobit,
   windowsapllication,
