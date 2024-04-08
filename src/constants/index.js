@@ -16,10 +16,13 @@ import {
   brightchamps,
   dirasa,
   fullstack,
-  carrent,
-  jobit,
-  tripguide,
   windowsapllication,
+  gymgenius,
+  ecommerce,
+  pizzajoy,
+  schoolsystem,
+  kime,
+  onlineshop,
 } from "../assets";
 
 export const navLinks = [
@@ -186,7 +189,29 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Job IT",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ecommerce,
+    source_code_link: "https://github.com/MhamadSaid/E-Commerce",
+  },
+
+  {
+    name: "GYMGENESIS",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -195,16 +220,12 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "tailwind",
         color: "green-text-gradient",
       },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: gymgenius,
+    source_code_link: "https://github.com/MhamadSaid/Gym-Website",
   },
   {
     name: "Job IT",
@@ -224,8 +245,25 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: pizzajoy,
+    source_code_link: "https://github.com/MhamadSaid/Restaurant-menu",
+  },
+  {
+    name: "GYMGENESIS",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+    ],
+    image: kime,
+    source_code_link: "https://github.com/MhamadSaid/Kime",
   },
   {
     name: "Trip Guide",
@@ -245,8 +283,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: onlineshop,
+    source_code_link: "https://github.com/MhamadSaid/Online-Shop",
+  },
+  {
+    name: "Trip Guide",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: schoolsystem,
+    source_code_link: "https://github.com/MhamadSaid/School-Management-System",
   },
 ];
 
