@@ -125,10 +125,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Nov 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Advocate for equitable access to technology in education, ensuring all learners benefit from relevant and accessible resources.",
+      "Enhance education quality through the strategic use of technology, promoting critical thinking and problem-solving while leveraging data for informed decision-making.",
     ],
   },
   {
@@ -209,7 +207,6 @@ const projects = [
     image: ecommerce,
     source_code_link: "https://github.com/MhamadSaid/E-Commerce",
   },
-
   {
     name: "GYMGENESIS",
     description:
