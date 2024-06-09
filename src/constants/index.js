@@ -23,6 +23,9 @@ import {
   schoolsystem,
   kime,
   onlineshop,
+  RgbColorSlider,
+  AiImageGenerator,
+  CarGame,
 } from "../assets";
 
 export const navLinks = [
@@ -296,6 +299,65 @@ const projects = [
     ],
     image: schoolsystem,
     source_code_link: "https://github.com/MhamadSaid/School-Management-System",
+  },
+  {
+    name: "RGB-Color-Slider",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    tags: [
+      {
+        name: "C#",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Unity",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: RgbColorSlider,
+    source_code_link: "https://github.com/MhamadSaid/RGB-Color-Slider",
+  },
+  {
+    name: "Ai Image Generator",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "RestApi",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: AiImageGenerator,
+    source_code_link: "https://github.com/MhamadSaid/Ai-Image-Generator",
+  },
+  {
+    name: "Car-Game",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    tags: [
+      {
+        name: "Html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: CarGame,
+    source_code_link: "https://github.com/MhamadSaid/Car-Game",
   },
 ];
 
