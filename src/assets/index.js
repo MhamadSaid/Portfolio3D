@@ -30,8 +30,11 @@ import onlineshop from "./projects/project1.jpeg";
 import kime from "./projects/project2.jpeg";
 import schoolsystem from "./projects/project3.jpeg";
 import pizzajoy from "./projects/project4.jpeg";
-import ecommerce from "./projects/project5.jpeg";
+import ecommerce from "./projects/project5.png";
 import gymgenius from "./projects/project6.jpeg";
+import RgbColorSlider from "./projects/project7.png";
+import AiImageGenerator from "./projects/project8.png";
+import CarGame from "./projects/project9.png";
 
 export {
   logo,
@@ -65,4 +68,7 @@ export {
   schoolsystem,
   kime,
   onlineshop,
+  RgbColorSlider,
+  AiImageGenerator,
+  CarGame,
 };
